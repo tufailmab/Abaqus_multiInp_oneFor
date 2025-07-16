@@ -16,7 +16,7 @@
   <ol>
     <li>Place all your <code>.inp</code> files and a single <code>.for</code> file in the same folder as the script.</li>
     <li>Run the script from within that directory using Abaqus Python:
-      <pre><code>abaqus python multiInp_oneFor.py</code></pre>
+      <pre><code>abaqus python WithSubroutine.py</code></pre>
     </li>
     <li>The script will:
       <ul>
