@@ -1,6 +1,6 @@
 </head>
 <body>
-  <h1>Abaqus_multiInp_oneFor</h1>
+  <h1>Abaqus_MultiInp_oneFor</h1>
 
   <p>This project provides a Python script to automate the batch submission of Abaqus jobs using <strong>multiple <code>.inp</code> files</strong> with a <strong>single <code>.for</code> user subroutine</strong>. It is ideal for scenarios where you want to test or simulate different models using the same custom material behavior or user logic implemented in Fortran.</p>
 
