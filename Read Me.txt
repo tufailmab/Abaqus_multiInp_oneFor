@@ -1,1 +1,0 @@
-Require 1 fortran file and multiple input files in current directory.
